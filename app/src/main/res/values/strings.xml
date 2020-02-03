@@ -3,4 +3,7 @@
     <string name="animalQuestion">What kind of animal is it?</string>
     <string name="btnConfirm">Confirm</string>
     <string name="speciesText">Species</string>
+    <string name="giraffe">Giraffe</string>
+    <string name="correct">Correct!</string>
+    <string name="incorrect">Incorrect, the correct answer is Giraffe!</string>
 </resources>
